@@ -19,6 +19,6 @@
 * 4x Screw - M3 x 8mm
 * 4x Nut - M3 
 * Speaker Unit - 49.7JQ01A002
-* Bluetooth Audio **Module - MH**-M38
+* Bluetooth Audio Module - MH-M38
 * Locker Switch - KCD11-101mini
 * 4x Rubber feet
